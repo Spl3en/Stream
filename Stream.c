@@ -6,7 +6,7 @@
 
 // ---------- Includes ------------
 #include "Stream.h"
-
+#include "dbg/dbg.h"
 
 // ------ Structure declaration -------
 

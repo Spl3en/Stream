@@ -8,7 +8,10 @@
 
 #pragma once
 
-#include "Pangu.h"
+#include <stdint.h>
+#include <stdlib.h>
+#include <stdbool.h>
+#include <string.h>
 
 // Macro helper
 #define streamIn(self, data) \
